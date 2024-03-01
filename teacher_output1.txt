@@ -1,0 +1,482 @@
+Enter the coordinates of the ship of size 5: 0,0
+Enter the orientation of the ship of size 5: h
+Enter the coordinates of the ship of size 4: 1,0
+Enter the orientation of the ship of size 4: h
+Enter the coordinates of the ship of size 3: 0,0
+Enter the orientation of the ship of size 3: h
+Ship coordinates are already taken!
+Enter the coordinates of the ship of size 3: 2,0
+Enter the orientation of the ship of size 3: h
+Enter the coordinates of the ship of size 3: 3,0
+Enter the orientation of the ship of size 3: h
+Enter the coordinates of the ship of size 2: 4,0
+Enter the orientation of the ship of size 2: h
+Enter the coordinates of the ship of size 5: 0,0
+Enter the orientation of the ship of size 5: h
+Enter the coordinates of the ship of size 4: 1,0
+Enter the orientation of the ship of size 4: h
+Enter the coordinates of the ship of size 3: 2,0
+Enter the orientation of the ship of size 3: h
+Enter the coordinates of the ship of size 3: 3,0
+Enter the orientation of the ship of size 3: h
+Enter the coordinates of the ship of size 2: 4,0
+Enter the orientation of the ship of size 2: h
+Player 1's board:
+[S][S][S][S][S]
+[S][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[S][S][S][S][S]
+[S][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 0, 0
+Hit!
+Player 2's turn.
+Enter your guess: 0, 0
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][S][S][S][S]
+[S][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][S][S][S][S]
+[S][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 0, 1
+Hit!
+Player 2's turn.
+Enter your guess: 0, 1
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][S][S][S]
+[S][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][S][S][S]
+[S][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 0, 2
+Hit!
+Player 2's turn.
+Enter your guess: 0, 2
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][S][S]
+[S][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][S][S]
+[S][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 0, 3
+Hit!
+Player 2's turn.
+Enter your guess: 0, 3
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][S]
+[S][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][S]
+[S][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 0, 4
+Hit!
+Player 2's turn.
+Enter your guess: 0, 4
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[S][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[S][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 1, 0
+Hit!
+Player 2's turn.
+Enter your guess: 1, 0
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][S][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 1, 1
+Hit!
+Player 2's turn.
+Enter your guess: 1, 1
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][S][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 1, 2
+Hit!
+Player 2's turn.
+Enter your guess: 1, 2
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][S][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 1, 3
+Hit!
+Player 2's turn.
+Enter your guess: 1, 3
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][H][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][H][ ]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 1, 4
+Miss!
+Player 2's turn.
+Enter your guess: 1, 4
+Miss!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[S][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 2, 0
+Hit!
+Player 2's turn.
+Enter your guess: 2, 0
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][S][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 2, 1
+Hit!
+Player 2's turn.
+Enter your guess: 2, 1
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][S][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 2, 2
+Hit!
+Player 2's turn.
+Enter your guess: 2, 2
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][ ][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 2, 3
+Miss!
+Player 2's turn.
+Enter your guess: 2, 3
+Miss!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][ ]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 2, 4
+Miss!
+Player 2's turn.
+Enter your guess: 2, 4
+Miss!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[S][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 3, 0
+Hit!
+Player 2's turn.
+Enter your guess: 3, 0
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[H][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[H][S][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 3, 1
+Hit!
+Player 2's turn.
+Enter your guess: 3, 1
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[H][H][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[H][H][S][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 3, 2
+Hit!
+Player 2's turn.
+Enter your guess: 3, 2
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[H][H][H][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[H][H][H][ ][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 3, 3
+Miss!
+Player 2's turn.
+Enter your guess: 3, 3
+Miss!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[H][H][H][M][ ]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[H][H][H][M][ ]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 3, 4
+Miss!
+Player 2's turn.
+Enter your guess: 3, 4
+Miss!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[H][H][H][M][M]
+[S][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[H][H][H][M][M]
+[S][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 4, 0
+Hit!
+Player 2's turn.
+Enter your guess: 4, 0
+Hit!
+Continue playing?: c
+Player 1's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[H][H][H][M][M]
+[H][S][ ][ ][ ]
+
+Player 2's board:
+[H][H][H][H][H]
+[H][H][H][H][M]
+[H][H][H][M][M]
+[H][H][H][M][M]
+[H][S][ ][ ][ ]
+
+Player 1's turn.
+Enter your guess: 4, 1
+Hit!
+Player 1 wins!

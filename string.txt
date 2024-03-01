@@ -1,0 +1,28 @@
+##Strings for the Board Class
+"Hit!"
+"Miss!"
+raise RuntimeError("Ship coordinates are out of bounds!")
+raise RuntimeError("Ship coordinates are out of bounds!")
+raise RuntimeError("Ship coordinates are already taken!")
+"[{}]"
+"\n"
+
+##Strings for the Player Class
+raise RuntimeError("This guess has already been made!")
+raise RuntimeError("Guess is not a valid location!")
+"Enter your guess: "
+"{}"
+"Enter the coordinates of the ship of size {}: "
+"Enter the orientation of the ship of size {}: "
+
+## Strings for BattleshipGame Class
+"{}'s board:"
+"{}'s board:"
+"{}'s turn."
+"{} wins!"
+"Continue playing?: "
+
+##Strings for main
+"Player 1"
+"Player 2"
+
